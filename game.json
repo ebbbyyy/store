@@ -1,9 +1,14 @@
-[
-  {
+{
+  "version": 1,
+  "show_internal_line": 1,
+  "games": [
+    {
     "id": "1",
     "name": "ColoringBook",
     "bundle_id": "com.panipani.color",
     "store_url": "https://apple.co/3XIwCSO",
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/d9/39/1bd939af-2351-cd62-ed1b-b811f8a41f33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/270x270bb.jpg
-  },
-]
+      "show_line": 1
+    },
+  ]
+}
