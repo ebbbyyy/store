@@ -13,10 +13,10 @@
     {
       "id": "2",
       "name": "ColoringBook",
-      "bundle_id": "com.ebeat.princess",
+      "bundle_id": "com.ebeat.princess2",
       "store_url": "https://ebbbyyy.github.io/store/icons/color_icon.png",
       "icon_url": "https://ebbbyyy.github.io/store/icons/color2_icon.png",
-      "show_line": 1
+      "show_line": 0
     },
     {
       "id": "3",
